@@ -1,1 +1,1 @@
-ShowAt component will show a message (children) only at exact time (date attribute);
+Компонент ShowAt показывает сообщение (children) в строго определенное время в будущем (date in props)
